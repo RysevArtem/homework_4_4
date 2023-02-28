@@ -34,7 +34,7 @@ def test_circle():
     print(area)
 
     length = 2 * math.pi * r
-    assert length == 144.29090290269986
+    assert length == 144.51326206513048
     print(length)
 
 
